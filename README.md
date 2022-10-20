@@ -15,12 +15,12 @@ The Arctic has been warming nearly four times as fast as the rest of the world. 
 
 **1. Purpose**
 
-    The code is for combinging multiple files into one with an appropriate header without unnecessary cells (-9999).
+    The code is for combinging multiple files into one with an appropriate header without unnecessary cells (-9999 replaced by NA).
 
 **2. Usage**
 
     The code was made to run in a supercomputer "Chinook" in University of Alaska Fairbanks. It requires .slurm file.
-    First, the code was produced using a terminal, then it was modified for the Chinook job scheduler (slurm) can be read.
+    First, the code was produced using a terminal, then it was modified so that the Chinook job scheduler "slurm" can read.
 
 **3. Content**
 
