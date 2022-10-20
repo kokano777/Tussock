@@ -31,10 +31,3 @@ The Arctic has been warming nearly four times as fast as the rest of the world. 
 
 **Kyoko Okano**  
 Ph.D student at Department of Biology and Wildlife and at Institute of Arctic Biology, University of Alaska, Fairbanks  
-
-
-
-
-
-
-
