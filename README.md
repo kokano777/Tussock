@@ -15,7 +15,7 @@ The Arctic has been warming nearly four times as fast as the rest of the world. 
 
 **1. Purpose**
 
-    The code is for combinging multiple files into one with an appropriate header without unnecessary cells (-9999 replaced by NA).
+    The code is for combinging multiple files into one with an appropriate header without unnecessary cells (-9999 deleted).
 
 **2. Usage**
 
